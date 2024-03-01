@@ -1,0 +1,97 @@
+Squad,Country,League Rank,Matches Played,Goals Scored,Goals Against,Attendance,Points Per Game,Win %
+Internazionale,Italy,1,26,67,12,56033,2.65,0.85
+Bayer Leverkusen,Germany,1,23,59,16,29978,2.65,0.83
+Real Madrid,Spain,1,26,54,16,71486,2.50,0.77
+Paris Saint Germain,France,1,23,54,19,47048,2.35,0.7
+Liverpool,England,1,26,63,25,54101,2.31,0.69
+Bayern Munich,Germany,2,23,63,26,75000,2.30,0.74
+Manchester City,England,2,26,59,26,52956,2.27,0.69
+Girona,Spain,2,26,57,32,12500,2.27,0.69
+Arsenal,England,3,26,62,23,60204,2.23,0.69
+Barcelona,Spain,3,26,56,34,40732,2.19,0.65
+Juventus,Italy,2,26,41,19,27450,2.19,0.65
+Stuttgart,Germany,3,23,52,29,53559,2.04,0.65
+Milan,Italy,3,26,50,32,55284,2.04,0.62
+Atletico Madrid,Spain,4,26,52,28,57147,2.00,0.62
+Aston Villa,England,4,26,56,35,41651,2.00,0.62
+Athletic Club,Spain,5,26,46,26,45509,1.88,0.54
+Tottenham Hotspur,England,5,25,52,38,61571,1.88,0.56
+Brest,France,2,23,34,18,14357,1.87,0.52
+Bologna,Italy,4,26,39,23,18121,1.85,0.5
+Dortmund,Germany,4,23,46,30,81280,1.78,0.48
+Monaco,France,3,23,44,34,7636,1.78,0.52
+Atalanta,Italy,5,26,48,28,11331,1.77,0.54
+RB Leipzig,Germany,5,23,49,30,44904,1.74,0.52
+Nice,France,4,23,22,15,25150,1.74,0.48
+Roma,Italy,6,26,48,32,48607,1.69,0.5
+Manchester United,England,6,26,36,36,73517,1.69,0.54
+Lille,France,5,23,33,20,37479,1.65,0.43
+Real Betis,Spain,6,26,31,26,51060,1.62,0.38
+Fiorentina,Italy,7,26,39,30,24179,1.58,0.46
+Lens,France,6,23,30,24,37903,1.57,0.43
+Napoli,Italy,9,26,40,30,37637,1.54,0.42
+Real Sociedad,Spain,7,26,35,26,32522,1.54,0.38
+Lazio,Italy,8,26,32,28,35508,1.54,0.46
+Rennes,France,7,23,35,27,27317,1.52,0.39
+Brighton and Hove Albion,England,7,26,49,41,33118,1.50,0.38
+West Ham United,England,8,26,40,46,62616,1.50,0.42
+Eintracht Frankfurt,Germany,6,23,36,30,56555,1.48,0.35
+Reims,France,8,23,30,31,15682,1.48,0.43
+Wolverhampton Wanderers,England,9,26,40,40,31313,1.46,0.42
+Valencia,Spain,9,25,29,29,43936,1.44,0.4
+Marseille,France,9,23,33,25,60904,1.43,0.35
+Newcastle United,England,10,26,54,45,52115,1.42,0.42
+Chelsea,England,11,25,42,41,39706,1.40,0.4
+Las Palmas,Spain,8,26,26,26,25962,1.38,0.38
+Torino,Italy,10,26,25,25,16574,1.38,0.35
+Monza,Italy,11,26,27,30,9074,1.38,0.35
+Getafe,Spain,10,26,33,38,11671,1.31,0.31
+Hoffenheim,Germany,7,23,41,43,22925,1.30,0.35
+Werder Bremen,Germany,8,23,32,35,41613,1.30,0.35
+Genoa,Italy,12,26,28,31,25001,1.27,0.31
+Osasuna,Spain,11,26,30,37,20054,1.27,0.35
+Freiburg,Germany,9,23,30,42,34267,1.26,0.35
+Fulham,England,12,26,36,42,24267,1.23,0.35
+Heidenheim,Germany,10,23,33,40,15000,1.22,0.3
+Lyon,France,10,23,25,35,42462,1.22,0.35
+Toulouse,France,11,23,25,31,25245,1.13,0.26
+Augsburg,Germany,11,23,33,41,28812,1.13,0.26
+Alaves,Spain,12,26,25,32,17074,1.12,0.27
+Villarreal,Spain,13,26,38,48,17582,1.12,0.27
+Bournemouth,England,14,25,33,47,11071,1.12,0.28
+Monchengladbach,Germany,12,23,41,45,50350,1.09,0.26
+Wolfsburg,Germany,13,23,28,36,25588,1.09,0.26
+Nantes,France,12,23,23,34,29987,1.09,0.3
+Strasbourg,France,13,23,23,35,25334,1.09,0.26
+Union Berlin,Germany,14,23,23,37,21746,1.09,0.3
+Bochum,Germany,15,23,28,46,25650,1.09,0.22
+Crystal Palace,England,13,26,31,44,24843,1.08,0.27
+Le Havre,France,14,23,24,30,36444,1.04,0.22
+Montpellier,France,15,23,25,31,13174,0.96,0.22
+Everton,England,15,26,28,34,39048,0.96,0.31
+Brentford,England,16,26,37,48,17072,0.96,0.27
+Lorient,France,16,23,31,44,15357,0.96,0.22
+Rayo Vallecano,Spain,14,26,22,36,12876,0.96,0.19
+Empoli,Italy,13,26,22,40,7934,0.96,0.23
+Sevilla,Spain,15,26,30,38,34901,0.92,0.19
+Mallorca,Spain,16,26,23,34,17149,0.92,0.15
+Nottingham Forest,England,17,26,34,48,29324,0.92,0.23
+Lecce,Italy,14,26,24,43,20281,0.92,0.19
+Udinese,Italy,15,26,25,40,16991,0.88,0.12
+Frosinone,Italy,16,26,34,55,12507,0.88,0.23
+Celta Vigo,Spain,17,26,29,39,19788,0.81,0.15
+Luton Town,England,18,25,35,51,10981,0.80,0.2
+Hellas Verona,Italy,17,26,23,36,17055,0.77,0.15
+Sassuolo,Italy,18,26,32,54,11004,0.77,0.19
+Cagliari,Italy,19,26,24,47,12362,0.77,0.15
+Metz,France,17,23,19,37,23313,0.74,0.17
+Clermont Foot,France,18,23,16,36,9705,0.74,0.13
+Koln,Germany,16,23,16,37,49827,0.74,0.13
+Cadiz,Spain,18,26,17,37,18281,0.69,0.08
+Mainz 05,Germany,17,23,18,37,29529,0.65,0.09
+Darmstadt 98,Germany,18,23,24,52,17729,0.57,0.09
+Granada,Spain,19,25,27,49,17506,0.56,0.08
+Burnley,England,19,26,25,58,21326,0.50,0.12
+Salernitana,Italy,20,26,20,53,15101,0.50,0.08
+Sheffield United,England,20,26,22,66,30447,0.50,0.12
+Almeria,Spain,20,26,25,54,13825,0.35,0.0
